@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[Blog](https://velog.io/@dae-hwa)
+[Today I Learned](https://dae-hwa.github.io/til/)
+
 <!--
 **Dae-Hwa/Dae-Hwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
