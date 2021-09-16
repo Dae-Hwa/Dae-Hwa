@@ -1,8 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-- [Blog](https://velog.io/@dae-hwa)
+객체지향, TDD를 좋아하는 백엔드 개발자 정대화입니다!
 
-- [Today I Learned](https://dae-hwa.github.io/til/)
+📰 [Blog](https://velog.io/@dae-hwa)
+
+📕 [Today I Learned](https://dae-hwa.github.io/til/)
 
 <!--
 **Dae-Hwa/Dae-Hwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
